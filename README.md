@@ -24,7 +24,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/<your-org>/yangtao-diagnosis.git ~/.claude/skills/yangtao-diagnosis
+git clone https://github.com/qzw309-sys/yangtao-diagnosis.git ~/.claude/skills/yangtao-diagnosis
 ```
 
 重启 Claude Code 即可，直接说人话触发。
